@@ -64,6 +64,10 @@ const HeadContainer = styled.div`
   flex-direction: column;
   padding-bottom: 1rem;
   background-image: url(${Background});
+  background-size:     cover;                  
+  background-repeat:   no-repeat;
+  background-position: center center;
+
   
 `;
 

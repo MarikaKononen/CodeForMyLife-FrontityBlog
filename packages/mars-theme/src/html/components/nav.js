@@ -22,6 +22,7 @@ const Container = styled.ul`
   box-sizing: border-box;
   padding: 0 24px;
   margin: 0;
+  background-color:  rgb(0, 102, 102, 0.45);
  
 `;
 

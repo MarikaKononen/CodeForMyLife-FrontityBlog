@@ -28,7 +28,7 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-around;
- 
+  background-color:  rgb(0, 102, 102, 0.45);
  
   
 `;
@@ -38,7 +38,7 @@ const Title = styled.h1`
   margin-bottom: 16px;
 `;
 
-const Description = styled.h2`
+const Description = styled.h5`
   margin: 0;
   color: rgba(255, 255, 255, 0.7);
 `;

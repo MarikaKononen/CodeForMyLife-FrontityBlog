@@ -2,45 +2,24 @@
   "errors": [],
   "warnings": [],
   "version": "4.32.2",
-  "hash": "f94b341964e0bbfc7eb1",
+  "hash": "fcdcfd8d203539284f60",
   "publicPath": "/static/",
   "outputPath": "/Users/marikakononen/Koodaus/KoodausProjektit/GitHub/CodeForMyLife-FrontityBlog/build/static",
   "assetsByChunkName": {
-    "frontity-first-app": [
-      "frontity-first-app.module.js",
-      "frontity-first-app.54e6b623dc37aeaa3405.hot-update.js"
-    ],
+    "frontity-first-app": "frontity-first-app.module.js",
     "list": "list.module.js"
   },
   "assets": [
     {
-      "name": "54e6b623dc37aeaa3405.hot-update.json",
-      "size": 60,
-      "chunks": [],
-      "chunkNames": [],
-      "emitted": false
-    },
-    {
-      "name": "frontity-first-app.54e6b623dc37aeaa3405.hot-update.js",
-      "size": 7426,
-      "chunks": [
-        "frontity-first-app"
-      ],
-      "chunkNames": [
-        "frontity-first-app"
-      ],
-      "emitted": false
-    },
-    {
       "name": "frontity-first-app.module.js",
-      "size": 3027473,
+      "size": 3027976,
       "chunks": [
         "frontity-first-app"
       ],
       "chunkNames": [
         "frontity-first-app"
       ],
-      "emitted": false
+      "emitted": true
     },
     {
       "name": "images/metsa.png",
@@ -75,8 +54,7 @@
         "frontity-first-app"
       ],
       "assets": [
-        "frontity-first-app.module.js",
-        "frontity-first-app.54e6b623dc37aeaa3405.hot-update.js"
+        "frontity-first-app.module.js"
       ],
       "children": {},
       "childAssets": {}
@@ -88,8 +66,7 @@
         "frontity-first-app"
       ],
       "assets": [
-        "frontity-first-app.module.js",
-        "frontity-first-app.54e6b623dc37aeaa3405.hot-update.js"
+        "frontity-first-app.module.js"
       ],
       "children": {},
       "childAssets": {}

@@ -3,8 +3,8 @@ const settings = {
   "state": {
     "frontity": {
       "url": "https://codeformylife.com",
-      "title": "Code for My Life Blog",
-      "description": "WordPress installation for Frontity development"
+      "title": "Code for My Life ",
+      "description": "WordPress Blog with React Front-end"
     }
   },
   "packages": [
