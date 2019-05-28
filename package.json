@@ -1,0 +1,21 @@
+{
+  "name": "codeformylife-frontityblog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontity project",
+  "keywords": [
+    "frontity"
+  ],
+  "scripts": {
+    "dev": "frontity dev",
+    "build": "frontity build",
+    "serve": "frontity serve"
+  },
+  "dependencies": {
+    "frontity": "^0.2.13",
+    "@frontity/core": "^0.4.0",
+    "@frontity/wp-source": "^0.1.7",
+    "@frontity/tiny-router": "^0.3.6",
+    "@frontity/mars-theme": "./packages/mars-theme"
+  }
+}

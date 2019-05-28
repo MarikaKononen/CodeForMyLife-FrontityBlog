@@ -1,0 +1,109 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.32.2",
+  "hash": "f94b341964e0bbfc7eb1",
+  "publicPath": "/static/",
+  "outputPath": "/Users/marikakononen/Koodaus/KoodausProjektit/GitHub/CodeForMyLife-FrontityBlog/build/static",
+  "assetsByChunkName": {
+    "frontity-first-app": [
+      "frontity-first-app.module.js",
+      "frontity-first-app.54e6b623dc37aeaa3405.hot-update.js"
+    ],
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "54e6b623dc37aeaa3405.hot-update.json",
+      "size": 60,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": false
+    },
+    {
+      "name": "frontity-first-app.54e6b623dc37aeaa3405.hot-update.js",
+      "size": 7426,
+      "chunks": [
+        "frontity-first-app"
+      ],
+      "chunkNames": [
+        "frontity-first-app"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "frontity-first-app.module.js",
+      "size": 3027473,
+      "chunks": [
+        "frontity-first-app"
+      ],
+      "chunkNames": [
+        "frontity-first-app"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "images/metsa.png",
+      "size": 17345796,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": false
+    },
+    {
+      "name": "images/valkoinen-kukka.jpg",
+      "size": 625268,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 16693,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "frontity-first-app": {
+      "chunks": [
+        "frontity-first-app"
+      ],
+      "assets": [
+        "frontity-first-app.module.js",
+        "frontity-first-app.54e6b623dc37aeaa3405.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "frontity-first-app": {
+      "chunks": [
+        "frontity-first-app"
+      ],
+      "assets": [
+        "frontity-first-app.module.js",
+        "frontity-first-app.54e6b623dc37aeaa3405.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": []
+}
