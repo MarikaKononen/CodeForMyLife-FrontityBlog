@@ -1,1 +1,1 @@
-# CodeForMyLife-FrontityBlog
+# Code for My Life - Frontity Blog
