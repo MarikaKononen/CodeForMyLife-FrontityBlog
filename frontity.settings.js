@@ -18,6 +18,7 @@ const settings = {
             ["Coding","/category/technical-things/coding/"],
             ["Technical Things","/category/technical-things/"],
             ["WordPress","/category/technical-things/wordpress-en/"],
+            ["Frontity","/category/technical-things/frontity/"],
             ["Contact","/contact/"],
             ["About Me","/me-and-my-blog/"]
           ]

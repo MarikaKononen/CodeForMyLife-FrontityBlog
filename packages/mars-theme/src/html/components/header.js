@@ -29,18 +29,23 @@ const Container = styled.div`
   flex-direction: column;
   justify-content: space-around;
   background-color:  rgb(0, 102, 102, 0.45);
- 
+  margin-top: 90px;
+
   
 `;
 
 const Title = styled.h1`
   margin: 0;
   margin-bottom: 16px;
+  font-family: 'Rancho', cursive;
+  text-align: center;
 `;
 
 const Description = styled.h5`
   margin: 0;
   color: rgba(255, 255, 255, 0.7);
+  font-family: 'Rancho', cursive;
+  text-align: center;
 `;
 
 const StyledLink = styled(Link)`

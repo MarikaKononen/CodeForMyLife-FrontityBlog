@@ -23,6 +23,11 @@ const Container = styled.ul`
   padding: 0 24px;
   margin: 0;
   background-color:  rgb(0, 102, 102, 0.45);
+  font-family: 'Rancho', cursive;
+  font-size: rem;
+  justify-content: center;
+  padding-bottom: 15px;
+  
  
 `;
 
@@ -30,13 +35,14 @@ const Item = styled.li`
   padding: 0;
   margin: 0 16px;
   color: #fff;
-  font-size: 0.9em;
+  font-size: 2rem;
   box-sizing: border-box;
   flex-shrink: 0;
+  text-align: center;
 
   & > a {
     display: inline-block;
-    line-height: 2em;
+    line-height: 1.2em;
     border-bottom: 2px solid
       ${({ isSelected }) => (isSelected ? "#fff" : "transparent")};
   }

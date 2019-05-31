@@ -33,7 +33,7 @@ export default connect(Item);
 
 const Container = styled.li`
   text-align: center;
-  margin: 10px;
+  margin: 5px;
   padding: 0 15px;
   border: 1px solid #009999;
   float: left;
